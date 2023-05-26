@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import { Canvas } from '@react-three/fiber'
-import Editor from './src/components/Editor.jsx';
-import Experience from './src/components/Experience.jsx';
-import { CustomObject } from './src/components/CustomObject.jsx';
+import Editor from './components/Editor.jsx';
+import Experience from './components/Experience.jsx';
+import { CustomObject } from './components/CustomObject.jsx';
 import { SketchPicker } from 'react-color';
 
 export default function App() {
